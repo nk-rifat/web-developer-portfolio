@@ -107,3 +107,15 @@ main{
 .about-inf{
     text-align: center;
 }
+.info-tittle{
+    color:#757575;
+    font-size: 20px;
+}
+.info-description{
+    color: #474747;
+    font-size: 18px;
+    font-weight: 700;
+}
+#what-i-do-description{
+    padding: 30px 150px;
+}
